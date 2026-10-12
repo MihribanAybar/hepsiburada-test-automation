@@ -1,0 +1,23 @@
+# Gauge directories
+.gauge/
+logs/
+reports/
+gauge_bin/
+libs/
+
+# Maven target
+target/
+
+# Chrome runtime profile
+chrome_profile/
+
+# IDE / IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# OS files
+.DS_Store
+Thumbs.db

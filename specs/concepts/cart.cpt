@@ -1,0 +1,14 @@
+# Ürünü sepete ekle ve sepette olduğunu doğrula
+Bu konsept; ürün detay sayfasındaki ürün adı ve fiyatının kaydedilmesini,
+"Sepete Ekle" butonunun aktifliğinin kontrol edilmesini, sepete ekleme işlemini,
+sepetin açılmasını ve sepette ürün adı, fiyat ve adedinin (1 adet) birebir doğrulanmasını sağlar.
+
+* Ürün adını kaydet
+* Ürün fiyatını kaydet
+* Sepete Ekle butonunun aktif olduğunu doğrula
+* Sepete Ekle butonuna tıkla
+* Sepete eklendiğine dair onay mesajını gör
+* Header'daki sepet ikonuna tıkla
+* Sepette ürün adedinin 1 olduğunu doğrula değilse 1 yap
+* Sepette gösterilen ürün adının detay sayfasındakiyle eşleştiğini doğrula
+* Sepetteki ürün fiyatının detay sayfasındakiyle eşleştiğini doğrula

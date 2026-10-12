@@ -1,0 +1,8 @@
+# <keyword> araması yap ve ikinci satırdaki ilk ürünü seç
+Bu konsept; arama kutusuna ürün adının yazılmasını, sonuçların listelenip doğrulanmasını,
+ızgara (grid) üzerindeki 2. satır 1. ürünün bulunmasını ve ürün detay sayfasına yönlenilmesini sağlar.
+
+* Arama kutusuna <keyword> yaz ve ara
+* Arama sonuçlarının yüklendiğini ve ürün listesinin görünür olduğunu doğrula
+* İkinci satırdaki ilk ürünü seç
+* İkinci satırdaki ilk ürünün sayfasına yönlendiğini doğrula

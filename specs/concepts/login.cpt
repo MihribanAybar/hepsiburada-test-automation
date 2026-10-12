@@ -1,0 +1,8 @@
+# Hepsiburada'ya başarılı giriş yap
+Bu konsept; tarayıcının açılmasını, ana sayfaya gidilmesini, giriş butonuna tıklanmasını,
+kullanıcı bilgileriyle giriş yapılmasını ve girişin başarılı olduğunun doğrulanmasını sağlar.
+
+* Tarayıcıyı aç ve "https://www.hepsiburada.com" adresine git
+* Sağ üstteki Giriş Yap butonuna tıkla
+* Geçerli kullanıcı bilgileriyle giriş yap
+* Kullanıcının başarılı şekilde giriş yaptığını doğrula
